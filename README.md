@@ -1,8 +1,6 @@
 ## Selamat Datang di Blog Pribadi Saya
 
-You can use the [editor on GitHub](https://github.com/alifazrielv/Biodata-Pribadi/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Kamu ingin tau lebih dekat dengan saya, cus pantengin aja blog pribadi sayaaa!!! 
 
 ### Markdown
 
